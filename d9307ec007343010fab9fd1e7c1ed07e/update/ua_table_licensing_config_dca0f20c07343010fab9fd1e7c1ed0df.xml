@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_149799_shopping_1623525039588</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-12 19:10:43</sys_created_on>
+        <sys_id>dca0f20c07343010fab9fd1e7c1ed0df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_149799_shopping_1623525039588</sys_name>
+        <sys_package display_value="Shopping List" source="x_149799_shopping">d9307ec007343010fab9fd1e7c1ed07e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">d9307ec007343010fab9fd1e7c1ed07e</sys_scope>
+        <sys_update_name>ua_table_licensing_config_dca0f20c07343010fab9fd1e7c1ed0df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-12 19:10:43</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
